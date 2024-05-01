@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet .Net.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet.Net.Properties.Resources.resources
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet .Net.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet .Net.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\bin\Debug\Projet.Net.exe.config
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\bin\Debug\Projet.Net.exe
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\bin\Debug\Projet.Net.pdb
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet.Net.exe
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet.Net.pdb
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet .Net.csproj.CopyComplete
+C:\Users\admin\source\repos\Projet .Net\Projet .Net\obj\Debug\Projet.Net.Home.resources
